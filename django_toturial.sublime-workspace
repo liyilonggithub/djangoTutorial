@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"Ch",
+				"ChoiceInline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dj_pj_1/settings.py",
+			"settings":
+			{
+				"buffer_size": 2052,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/models.py",
+			"settings":
+			{
+				"buffer_size": 829,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/admin.py",
+			"settings":
+			{
+				"buffer_size": 527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/views.py",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<h1></h1>",
+			"file": "polls/templates/polls/detail.html",
+			"file_size": 10,
+			"file_write_time": 1395997356000000,
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/urls.py",
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"setpy",
+				"Set Syntax: Python"
+			],
+			[
+				"setpytho",
+				"Set Syntax: Python"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sethl",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"setpyt",
+				"Set Syntax: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"setpyth",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dragon/workspace/django/dj_pj_1/polls/templates/index.html",
+		"/home/dragon/workspace/django/dj_pj_1/dj_pj_1/urls.py",
+		"/home/dragon/workspace/django/dj_pj_1/dj_pj_1/templates/admin/index.html",
+		"/home/dragon/workspace/django/dj_pj_1/dj_pj_1/templates/admin/base_site.html",
+		"/home/dragon/workspace/tmp/dirnameTest.py",
+		"/home/dragon/workspace/tmp/dirnameTest",
+		"/home/dragon/workspace/django/dj_pj_1/polls/admin.py",
+		"/home/dragon/workspace/django/dj_pj_1/README"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"template_lo",
+			"temp",
+			"time",
+			"question"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dj_pj_1/settings.py",
+					"settings":
+					{
+						"buffer_size": 2052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "polls/models.py",
+					"settings":
+					{
+						"buffer_size": 829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "polls/admin.py",
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "polls/views.py",
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 10.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "polls/templates/polls/detail.html",
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "polls/urls.py",
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
